@@ -1,7 +1,10 @@
-numpy
 pandas
+numpy
 scikit-learn
-xgboost
-shap
 matplotlib
 seaborn
+xgboost
+shap
+notebook
+nbconvert
+nbformat
